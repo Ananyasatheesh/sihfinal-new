@@ -1,0 +1,28 @@
+form input {
+  width: 40%;
+}
+
+.search{
+  width: 750px;
+  
+}
+#scroll::-webkit-scrollbar {
+  display: none;
+} 
+#search{
+  margin-left: 570px;
+}
+#button{
+  margin-left: 570px;
+}
+h1{
+  font-size: 20px;
+}
+h2{
+  margin-left: 50px;
+  font-size: 20px;
+}
+.img{
+  height: 650px;
+  width: 750px;
+}
